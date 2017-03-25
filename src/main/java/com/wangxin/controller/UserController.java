@@ -8,7 +8,7 @@
  * create at: 2016-7-5上午9:11:15 
 */ 
 
-package com.wasim.controller;
+package com.wangxin.controller;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -17,9 +17,9 @@ import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.ResponseBody;
 
-import com.wasim.bean.User;
-import com.wasim.common.JsonUtil;
-import com.wasim.service.IUserService;
+import com.wangxin.bean.User;
+import com.wangxin.common.JsonUtil;
+import com.wangxin.service.IUserService;
 
 
 /**

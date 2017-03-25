@@ -1,10 +1,10 @@
-package com.wasim.dao;
+package com.wangxin.dao;
 
 import java.util.List;
 
 import org.springframework.data.repository.Repository;
 
-import com.wasim.bean.User;
+import com.wangxin.bean.User;
 
 public interface IUserDAO{
 	

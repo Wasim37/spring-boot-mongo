@@ -1,11 +1,11 @@
-package com.wasim.dao.impl;
+package com.wangxin.dao.impl;
 
 import org.springframework.data.mongodb.core.query.Criteria;
 import org.springframework.data.mongodb.core.query.Query;
 import org.springframework.stereotype.Repository;
 
-import com.wasim.bean.User;
-import com.wasim.dao.IUserDAO;
+import com.wangxin.bean.User;
+import com.wangxin.dao.IUserDAO;
 
 @Repository
 public class UserDAO extends BaseDAO implements IUserDAO {

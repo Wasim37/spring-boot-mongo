@@ -8,9 +8,9 @@
  * create at: 2016-7-21下午6:16:25 
 */  
   
-package com.wasim.service;
+package com.wangxin.service;
 
-import com.wasim.bean.User;
+import com.wangxin.bean.User;
   
 /**
  * @ClassName: IUserService

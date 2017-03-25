@@ -21,7 +21,7 @@
     <!-- 使Spring支持自动检测组件，如注解的Controller-->
     <context:annotation-config/>  
     <context:component-scan base-package="com"/>
-    <!-- 视频解析 -->
+    
     <bean id="viewResolver"
           class="org.springframework.web.servlet.view.InternalResourceViewResolver"
           p:prefix="/"

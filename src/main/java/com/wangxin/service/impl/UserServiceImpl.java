@@ -8,14 +8,14 @@
  * create at: 2016-7-21下午6:16:49 
 */  
   
-package com.wasim.service.impl;
+package com.wangxin.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.wasim.bean.User;
-import com.wasim.dao.IUserDAO;
-import com.wasim.service.IUserService;
+import com.wangxin.bean.User;
+import com.wangxin.dao.IUserDAO;
+import com.wangxin.service.IUserService;
   
 /**
  * @ClassName: UserServiceImpl

@@ -1,4 +1,4 @@
-package com.wasim.common;
+package com.wangxin.common;
 
 import java.lang.reflect.Type;
 import java.text.ParseException;

@@ -8,7 +8,7 @@
  * create at: 2016-7-21下午2:48:38 
  */
 
-package com.wasim;
+package com.wangxin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

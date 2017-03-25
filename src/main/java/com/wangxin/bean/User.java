@@ -8,7 +8,7 @@
  * create at: 2016-7-21下午6:07:14 
 */  
   
-package com.wasim.bean;
+package com.wangxin.bean;
 
 import org.springframework.data.mongodb.core.index.Indexed;
 import org.springframework.data.mongodb.core.mapping.Document;
